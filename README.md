@@ -1,16 +1,15 @@
 # lab_session_6_authentication
 
-A new Flutter project.
 
-## Getting Started
+**Task**
 
-This project is a starting point for a Flutter application.
+Create a program in your preferred programming language with the following features:
 
-A few resources to get you started if this is your first Flutter project:
+1) ask a user to create a password
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2) determine the strength of the password
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3) provides suitable feedback to the password creator, such as how strong or weak the password is. You should develop and automatic process for this feature, such as checking the number of characters used, use of uppercase or lower case, symbols, numbers, spaces etc.
+
+***Ans:***
+I created a program using the Flutter framework that prompts the user to enter a password. The program then performs a check on the entered password to determine its strength. The check involves examining the length of the password and verifying whether it contains uppercase, lowercase, numeric, and special characters. Based on the results of this check, the program provides feedback to the user regarding the strength of their password.
