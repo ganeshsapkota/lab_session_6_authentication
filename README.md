@@ -13,3 +13,6 @@ Create a program in your preferred programming language with the following featu
 
 ***Ans:***
 I created a program using the Flutter framework that prompts the user to enter a password. The program then performs a check on the entered password to determine its strength. The check involves examining the length of the password and verifying whether it contains uppercase, lowercase, numeric, and special characters. Based on the results of this check, the program provides feedback to the user regarding the strength of their password.
+
+**Demo:**
+https://github.com/ganeshsapkota/lab_session_6_authentication/issues/1#issue-1561384171
